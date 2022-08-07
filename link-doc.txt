@@ -1,0 +1,10 @@
+#https://docs.aave.com/developers/v/2.0/the-core-protocol/lendingpool
+
+#https://docs.aave.com/developers/v/2.0/the-core-protocol/weth-gateway
+#https://docs.aave.com/developers/v/2.0/the-core-protocol/price-oracle
+#https://docs.aave.com/developers/v/2.0/the-core-protocol/protocol-overview
+#https://docs.aave.com/developers/v/2.0/deployed-contracts/deployed-contracts
+#https://aave-api-v2.aave.com/
+#https://docs.aave.com/developers/v/2.0/the-core-protocol/lendingpool/ilendingpool
+
+https://docs.aave.com/developers/v/2.0/deployed-contracts/deployed-contracts
